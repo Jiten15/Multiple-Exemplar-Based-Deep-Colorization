@@ -1,4 +1,4 @@
-# Deep Exemplar-based Deep Colorization (Pytorch Implementation)
+# Multiple Exemplar-based Deep Colorization (Pytorch Implementation)
 
 <img src='teaser.png'/>
 
