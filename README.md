@@ -1,4 +1,4 @@
-# Deep Exemplar-based Video Colorization (Pytorch Implementation)
+# Deep Exemplar-based Deep Colorization (Pytorch Implementation)
 
 <img src='teaser.png'/>
 
